@@ -7,6 +7,6 @@ Evaluation Method used: Scoring paramete(model_selection.cross_val_score)
 Model selection and evaluation using tools, such as model_selection.GridSearchCV and model_selection.cross_val_score, take a scoring parameter that controls what metric they apply to the estimators evaluated.
 
 Reference:
-Multiclass Algorithms -> https://scikit-learn.org/stable/modules/multiclass.html
-Model evaluation -> https://scikit-learn.org/stable/modules/model_evaluation.html
+Multiclass Algorithms -> https://scikit-learn.org/stable/modules/multiclass.html                                                           
+Model evaluation -> https://scikit-learn.org/stable/modules/model_evaluation.html                                                           
 Coding Reference -> https://machinelearningmastery.com/spot-check-machine-learning-algorithms-in-python/
